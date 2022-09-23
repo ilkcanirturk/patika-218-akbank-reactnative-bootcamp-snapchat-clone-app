@@ -10,7 +10,7 @@ import MapStack from '../navigation/MapStack';
 const BottomNav = createBottomTabNavigator();
 
 const BottomTabNav = () => {
-  const user = useSelector((state) => state.auth.user);
+
   const {theme} = useSelector((state) => state.theme);
 
 

@@ -20,12 +20,13 @@ Light and dark theme change is available.
 + Image Picker
 + React Native Map
 
-For start with React-Native and run with Android Virtual Device 
+For start with React-Native EXPO and run with Metro 
 ```
-npx react-native start
+expo start
 ```
+For start expo project via virtual device
 ```
-npx react-native run-android
+expo start --android or expo start --ios
 ```
 React Navigation Installations:
 ```
